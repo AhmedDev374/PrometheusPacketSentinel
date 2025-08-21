@@ -1,11 +1,11 @@
 1. **Prometheus Targets:** 
-![grafanaa_packer_loss(high).PNG](Images/grafanaa_packer_loss(high).PNG)
+![prometheus_target).PNG](Images/prometheus_target.PNG)
 
 2. **Promethus Alert:** 
 ![prometheus_alert.PNG](Images/prometheus_alert.PNG)
 
 3. **Graphana DataSource:** 
-![grafana_data_source.PNG](images/grafana_data_source.PNG)  
+![Images/grafana_data_source.PNG](Images/grafana_data_source.PNG)  
 
 4. **Graphana DashBoard:** 
 ![grafanaa_packer_loss(high).PNG](Images/grafanaa_packer_loss(high).PNG)
