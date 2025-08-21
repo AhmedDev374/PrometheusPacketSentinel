@@ -10,6 +10,10 @@
 4. **Graphana DashBoard:** 
 ![grafanaa_packer_loss(high).PNG](Images/grafanaa_packer_loss(high).PNG)
 
+5. **Alert Manager** 
+![AlertManager.PNG](Images/AlertManager.PNG)
+
+
 
 ---
 
